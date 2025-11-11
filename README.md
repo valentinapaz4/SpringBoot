@@ -88,10 +88,15 @@ Los beans MensajeDevService y MensajeProdService se activan automáticamente seg
 
 -Evidencia de Ejecución-
 Profile dev
-(Captura de consola mostrando mensajes detallados y estadísticas activas) profilesdevpng
+![Imagen de WhatsApp 2025-11-08 a las 02 30 01_8429d975](https://github.com/user-attachments/assets/75bfbced-d533-4d86-9dbb-51e5b644b98f)
+![Imagen de WhatsApp 2025-11-08 a las 02 30 01_1fa30c62](https://github.com/user-attachments/assets/365e3c76-2b53-445e-a11a-daac3081b9f7)
+
 
 Profile prod
-(Captura de consola mostrando mensajes simplificados y estadísticas desactivadas) profilesprodpng
+![Imagen de WhatsApp 2025-11-08 a las 02 30 27_e9488be0](https://github.com/user-attachments/assets/e8eaceed-134a-430b-90fd-ba9ba58c8be0)
+![Imagen de WhatsApp 2025-11-08 a las 02 30 27_9fa26951](https://github.com/user-attachments/assets/e65fd157-8210-4494-8c04-a2b831fc5976)
+
+
 
 -Conclusiones-
 El desarrollo de este trabajo práctico permitió aplicar los fundamentos de Spring Boot en un proyecto real, comprendiendo el valor de:
